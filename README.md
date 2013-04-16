@@ -1,5 +1,4 @@
 Author: Anurag Saini
-Email : anuragsn7@gmail.com
 
 The software is developed with Visual Studio Express 2010, in .NET framework 4.
 This software and corresponding source code is distributed under The MIT license. 
